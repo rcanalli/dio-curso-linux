@@ -1,2 +1,2 @@
-# dio-curso_linux
+# dio-curso-linux
 scripts and commands linux
